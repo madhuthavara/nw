@@ -11,20 +11,27 @@ Mitre ATT&CK Framework - https://attack.mitre.org/
 
 The MITRE ATT&CK framework categorizes adversary behavior into tactics and techniques.
 
-1. **Reconnaissance**
-2. **Resource Development**
-3. **Initial Access**
-4. **Execution**
-5. **Persistence**
-6. **Privilege Escalation**
-7. **Defense Evasion**
-8. **Credential Access**
-9. **Discovery**
-10. **Lateral Movement**
-11. **Collection**
-12. **Command and Control**
-13. **Exfiltration**
-14. **Impact**
+1. **Reconnaissance: Focus- Who is the target? What systems, people, and defenses exist?**
+Active Scanning
+Gather Victim Identity Information
+Gather Victim Network Information
+Gather Victim Organization Information
+Search Open Websites/Domains
+Phishing for Information
+Phishing for Information
+3. **Resource Development**
+4. **Initial Access**
+5. **Execution**
+6. **Persistence**
+7. **Privilege Escalation**
+8. **Defense Evasion**
+9. **Credential Access**
+10. **Discovery**
+11. **Lateral Movement**
+12. **Collection**
+13. **Command and Control**
+14. **Exfiltration**
+15. **Impact**
 
 ## Why ATT&CK Matters
 
